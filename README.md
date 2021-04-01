@@ -7,19 +7,17 @@ Same Sounds is a cultural Initiative in luxembourg belgium and the netherlands w
 
 https://www.sofarsounds.com/
 
-### Table of contents
- #### User Experience
- #### User Stories
- #### The 5 Planes
- #### Wireframes
- #### Features
- #### Technologies Used
- #### Testing
- #### Code Validation
- #### Usability Testing
- #### Bugs & Issues
- #### Deployment
- #### Resources
+## Table of contents
+ 1. User Experience
+ 2. User Stories
+ 3. The 5 Planes
+ 4. Wireframes
+ 5. Features
+ 6.Technologies Used
+ 7. Testing
+ 8. Code Validation
+ 10. Deployment
+ 11. Resources
 
 
 #### User Experience (UX)
@@ -104,9 +102,9 @@ Where
  Options to view street and outside side location
 
 ##### Wireframes. 
- Wireframes for the original design concepts were created using figma 
+ Wireframes for the original design concepts were created using figma the orginal idea can be found here. 
  Landing Page
- Big inviting image to and that it will change from week to week depend on the artist and everyone gets their time in the limelight 
+ Inviting image to and that it will change from week to week depend on the artist and everyone gets their time in the limelight. 
  
 ##### Map 
 The Map would be Centered with difference markers and i might change markers later own
