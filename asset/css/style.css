@@ -89,11 +89,12 @@ a:hover,a:active,a:focus {
 	transition: all 0.25s ease;
 }
 
-.navbar.comeup {margin-top: 0;background: rgba(0,0,0,0.9);}
+.navbar.comeup {margin-top: 0;background: rgb(219, 219, 219);}
 .navbar-default .navbar-nav>li>a {
 	padding: 25px 20px;
 	font-size: 15px;
-	font-weight: 700;
+    font-weight: 700;
+    color: #fff;
 }
 
 .navbar-default .navbar-toggle .icon-bar {background: #fff;}

@@ -12,14 +12,14 @@ $(document).ready(function(){
     // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {
 
-      // Prevent default anchor click behavior
+    // Prevent default anchor click behavior
       event.preventDefault();
 
-      // Store hash
+     // Store hash
       var hash = this.hash;
 
-      // Using jQuery's animate() method to add smooth page scroll
-      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+   // Using jQuery's animate() method to add smooth page scroll
+   // The optional number (900) specifies the number of milliseconds takes to area
       $('html, body').animate({
         scrollTop: $(hash).offset().top
       }, 900, function(){
@@ -30,8 +30,8 @@ $(document).ready(function(){
     } // End if
   });
 })
- 
-function  buildMap();
+ //Google maps Begins
+function  initMap() {};
 
 
 var sw = document.body.clientWidth,
@@ -40,19 +40,19 @@ var sw = document.body.clientWidth,
 var static = "https://maps.google.com/maps/api/staticmap?center=49.815273,6.129583&zoom=13&markers=40.440625,-79.995886&size=640x320&sensor=true";
 var embed = <iframe width="950" height="500" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJPST-Ji1PlUcRQ2KGFMyWauw&key=AIzaSyBKWDIYLomHxQPQobGU072YA60s7s3uDS8" allowfullscreen></iframe>
 
-function buildMap() {
+function initMap() {
   if(sw>bp) { //If Large Screen
-      if($('.map-container').length < 1) { //If map doesn't already exist
+      if($('.map-container').length > 1) { //If map doesn't already exist
         buildEmbed();
       }
   } else {
-      if($('.static-img').length < 1) { //If static image doesn't exist
+      if($('.static-img').length > 1) { //If static image doesn't exist
         buildStatic();
       }
   }
 };
 
-function buildEmbed() { //Build iframe view
+function initMap() { //Build iframe view
     $('<div class="map-container"/>').html(embed).prependTo($map);
 };
   
