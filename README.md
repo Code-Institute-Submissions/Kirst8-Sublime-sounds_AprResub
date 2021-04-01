@@ -8,37 +8,19 @@ Same Sounds is a cultural Initiative in luxembourg belgium and the netherlands w
 https://www.sofarsounds.com/
 
 ### Table of contents
+ #### User Experience
+ #### User Stories
+ #### The 5 Planes
+ #### Wireframes
+ #### Features
+ #### Technologies Used
+ #### Testing
+ #### Code Validation
+ #### Usability Testing
+ #### Bugs & Issues
+ #### Deployment
+ #### Resources
 
-#### User Experience
-
-
-#### User Stories
-
-#### The 5 Planes
-
-#### Wireframes
-
-#### Features
-
-#### Technologies Used
-
-#### Testing
-
-#### Code Validation
-
-#### Usability Testing
-
-#### Responsiveness Testing
-
-#### Bugs & Issues
-
-#### Deployment
-
-#### Resources
-
-#### Credits
-
-#### Acknowledgements
 
 #### User Experience (UX)
 1.I want to create a simple design to showcase the artist work and easy to find information. Where to sign up and where to submit their work  and the maps is to give the locations of the various places we will have events with in that time frame so it would have 4 or more different location displayed on the with in the regions of Luxembourg , Belgium and the Netherlands.
