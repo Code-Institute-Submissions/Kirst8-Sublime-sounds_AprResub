@@ -1,4 +1,5 @@
 # Sublime Sounds 
+![slogo](https://user-images.githubusercontent.com/68226385/113389883-0fd39e80-9391-11eb-9988-c13d7bd80d1e.jpg)
 
 
 Sublimes sounds was created as a fictional site the inspiration is taken from Sofar sounds where they host different events in different locations with different artists . 
@@ -102,9 +103,9 @@ Where
  Options to view street and outside side location
 
 ##### Wireframes. 
- Wireframes for the original design concepts were created using figma the orginal idea can be found here. 
+ Wireframes for the original design concepts were created using figma the orginal idea can be found here.https://www.figma.com/file/Z4F8OQDjsZeKMe28P4xmXb/Sublime-sounds?node-id=106%3A2
  Landing Page
- Inviting image to and that it will change from week to week depend on the artist and everyone gets their time in the limelight. 
+ Inviting image to and that it will change from week to week depend on the artist and everyone gets their time in the limelight orginally wanted to be carousel but   images were not as responsive and took to long to load 
  
 ##### Map 
 The Map would be Centered with difference markers and i might change markers later own
@@ -154,7 +155,18 @@ Manual testing.
 Google maps was a never ending of  trying to create cluster markers  but every time i did my code was involved and could not view my map at all and I used devops to help resolve these issue but options can go on for so , I had to enable my api in order for it to be viewed on my html page. 
 
 Modal pop-up was not working I used slack-workflow to help and the problem was the path to my jquery and my script form bootstrap was not placed correclty.
- 
+
+###Deployment
+This site is hosted using GitHub pages, deployed directly from the master branch, the live version can be found here.
+
+The deployed version of the site is the most current version in the repository.
+To deploy this page to GitHub Pages from its GitHub repository the following steps have to be made:
+
+1.From the menu items near the top of the page, select Settings
+2.Scroll down to the GitHub Pages section
+3.Under Source click the drop-down menu labelled None and select Master Branch.
+4.On selecting Master Branch the page will be automatically refreshed and the website is now deployed.
+5.Scroll back down to the GitHub Pages section in Settings to retrieve the link to the deployed website. It may take a short time to go live, but typically less than 60 seconds.
 
 #### Technologies Used
 This website has been built using the following core technologies:
@@ -171,7 +183,7 @@ Formspree for email integration
  
  
  
-#### Version Control, storage and hosting
+#### Resources
 
  - All of the website's code was written in the Gitpod IDE.
  - used for maintaining version control of the saved files.
